@@ -33,14 +33,14 @@ The template supports **budget forecasting**, **actual tracking**, and **visual 
 ### ✅ Personal Monthly Budget Sheet
 > A budgeting section showing **projected income**, **actual income**, expected expenses, and balance differences.
 
-![Budget Sheet](./assets/Budget.png)
+![Budget Sheet](Budget.png)
 
 ---
 
 ### ✅ Spending Dashboard / Monthly Summary
 > A dashboard view highlighting **monthly totals**, category-level spending trends, and visual charts for quick insights.
 
-![Dashboard](./assets/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
